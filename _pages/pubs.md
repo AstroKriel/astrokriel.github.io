@@ -4,17 +4,22 @@ author_profile: true
 classes: wide
 ---
 
-My CV can be found [**here**](/assets/docs/CV_Samuel_Lai.pdf).
+For more, take a look at my [**CV**](/assets/CV.pdf).
 
 <h3><u>
 	Publications
 </u> </h3>
-The best way to keep track of my publications is to use my [**ORCiD**](https://orcid.org/0000-0001-9372-4611) link.
+1. **Kriel, N.**, Beattie, J. R., Seta, A., & Federrath, C. (2022). Fundamental scales in the kinematic phase of the turbulent dynamo. DOI: [10.1093/mnras/stac969](https://doi.org/10.1093/mnras/stac969). arXiv: [2204.00828](https://arxiv.org/abs/2204.00828).
 
-<h9><u>
-	Selected first-author publications
-</u> </h9>
-1.  [**Virial Black Hole Mass Estimates of Quasars in the XQ-100 Legacy Survey**](https://orcid.org/0000-0001-9372-4611) <br/>
+1. Beattie, J. R., Krumholz, M., Skalidis, R., Federrath, C., Mocz, P., Crocker, R. M., Seta, A., & **Kriel, N.** (2022). Energy balance and Alfv\'en Mach numbers in compressible magnetohydrodynamic turbulence with a large-scale magnetic field. DOI: [10.1093/mnras/stac2099](https://doi.org/10.1093/mnras/stac2099). arXiv: [2202.13020](https://arxiv.org/abs/2202.13020).
+
+1. Beattie, J. R., Federrath, C., **Kriel, N.**, Mocz, P., & Seta, A. (2022). Growth or Decay -- I: universality of the turbulent dynamo saturation. DOI: [10.1093/mnras/stac2099](https://doi.org/10.1093/mnras/stac2099). arXiv: [2209.10749](https://arxiv.org/abs/2209.10749).
+
+
+
+
+
+<!-- 1.  [**Virial Black Hole Mass Estimates of Quasars in the XQ-100 Legacy Survey**](https://orcid.org/0000-0001-9372-4611) <br/>
 **Samuel Lai**, Christopher A Onken, Christian Wolf, Fuyan Bian, Guido Cupani, Sebastian Lopez, Valentina D’Odorico 
 (2023; MNRAS submitted)
 1.  [**Characterising SMSS J2157–3602, the most luminous known quasar, with accretion disc models**](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.3682L/abstract) <br/>
@@ -27,9 +32,11 @@ The best way to keep track of my publications is to use my [**ORCiD**](https://o
 **Samuel Lai**, Erik Dennihy, Siyi Xu, Atsuko Nitta, Scot Kleinman, S.K. Leggett, Amy Bonsor, Simon Hodgkin, Alberto Rebassa-Mansergas, Laura K. Rogers  
 (2021; ApJ, 920(2), 156)
 
-<h9><u>
-	Selected co-author publications
-</u> </h9>
+
+
+<h3><u>
+	Publications in preparation
+</u> </h3>
 1.  [**AllBRICQS: The All-sky BRIght, Complete Quasar Survey**](https://ui.adsabs.harvard.edu/abs/2023PASA...40...10O/abstract) <br/>
 Christopher A Onken, Christian Wolf, Wei Jeat Hon, **Samuel Lai**, Patrick Tisserand, Rachel Webster 
 (2023; PASA, 40, 010)
@@ -41,4 +48,4 @@ Erik Dennihy, Siyi Xu, **Samuel Lai**, Amy Bonsor, J.C. Clemens, Patrick Dufour,
 (2020; ApJ, 905(1), 15)
 1.  [**Infrared Excesses around Bright White Dwarfs from Gaia and unWISE. I.**](https://ui.adsabs.harvard.edu/abs/2020ApJ...902..127X/abstract) <br/>
 Siyi Xu, **Samuel Lai**, Erik Dennihy
-(2020; ApJ, 902(2), 127)
+(2020; ApJ, 902(2), 127) -->
