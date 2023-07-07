@@ -2,16 +2,16 @@
 permalink: /research/
 author_profile: true
 classes: wide
-intro:
-  - excerpt: 'Magnetic fields in turbulent environments'
+# intro:
+#   - excerpt: 'Magnetic fields in turbulent environments'
 
 feature_row:
 - image_path: /assets/kriel2023slices.png
   title: "Characterising Magnetic Structures in Turbulent Dynamos"
   excerpt: "Bla bla bla"
   btn_class: "btn--primary"
-- image_path: /assets/domain.gif
-  title: "Understanding the Role of Compressibility in Dynamos"
+- image_path: /assets/cube.gif
+  title: "Compressibility in Dynamos"
   excerpt: "bla bla bla."
   # url: /blrZ/
   # btn_class: "btn--primary"
