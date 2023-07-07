@@ -4,5 +4,7 @@ main:
   - title: "Research"
     url: /research/
   - title: "Publications"
-    url: /pubs/
+    url: /papers/
+  - title: "Side Projects"
+    url: /projects/
 
