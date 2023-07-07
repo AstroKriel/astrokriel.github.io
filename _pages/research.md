@@ -8,7 +8,7 @@ classes: wide
 feature_row:
 - image_path: /assets/kriel2023slices.png
   title: "Characterising Magnetic Structures in Turbulent Dynamos"
-  excerpt: "Using the new methods we developed for characterising turbulent velocity and magnetic field structures, we have established a clear relationship between magnetic field morphology and the lobal properties of plasmas. In, the warm phase of the ISM, for example, where turbulent motions are subsonic (top row panels), magnetic fields tend to form folded structures that lead to magnetic energy concentrated on the smallest scales allowed by dissipation processes. In the supersonically-moving (bottom row panels), cold phase of the ISM, however, shocks violently reorganise magnetic fields into larger-scale structures associated with denser regions of plasma."
+  excerpt: "We developed new methods for characterising magnetic field structures in plasmas, which revealed a clear relationship between the local, small-scale morphology of magnetic fields and the global, large-scale flow properties of plasmas. In, the warm phase of the ISM, for example, where turbulent motions are subsonic (top row panels), magnetic fields tend to form folded structures that lead to magnetic energy concentrated on the smallest scales allowed by dissipation processes. In the supersonically-moving (bottom row panels), cold phase of the ISM, however, shocks violently reorganise magnetic fields into larger-scale structures associated with denser regions of plasma."
 
 - image_path: /assets/cube.gif
   title: "Compressibility in Dynamos"
