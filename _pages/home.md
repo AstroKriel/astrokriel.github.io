@@ -7,4 +7,4 @@ Welcome to my website! I am a theoretical and computational astrophysicist inter
 
 Broadly, my research investigates the intricate interplay between magnetic fields and turbulence within the interstellar medium. More specifically, I contribute to the development of high-performance, multiphysics simulation codes, such as [**Quokka**](https://github.com/quokka-astro/quokka) and [**FLASH**](https://flash.rochester.edu/site/flashcode/), which allows us to delve deeper into the depths of these complex phenomena and gain a more detailed understanding of how magnetic fields evolve and ultimately become organised in different environments. Beyond simulations, my work also contributes to the development of theoretical models that shed light on fundamental processes like turbulence, which play a vital role in shaping magnetic fields.
 
-If you are interested, I encourage you to visit my [**Research**][1] page, or take a look at my [**CV**](/assets/NK_CV.pdf).
+If you are interested, I encourage you to visit my [**Research**][/research/] page, or take a look at my [**CV**](/assets/NK_CV.pdf).
