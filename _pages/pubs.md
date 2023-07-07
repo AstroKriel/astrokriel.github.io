@@ -4,7 +4,7 @@ author_profile: true
 classes: wide
 ---
 
-For more, take a look at my [**CV**](/assets/CV.pdf).
+For more detail, take a look at my [**CV**](/assets/CV.pdf).
 
 <h3><u>
 	Peer-Reviewed Publications
