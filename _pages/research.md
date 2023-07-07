@@ -3,7 +3,7 @@ permalink: /research/
 author_profile: true
 classes: wide
 intro:
-  - excerpt: "The **turbulent dynamo** explains how turbulent motions can rapidly grow weak, seed magnetic fields that were produced in the early Universe, to the levels we see today. At first, turbulent motions grow magnetic fields exponentially fast in time, until magnetic fields reach close equipartition with turbulent kinetic fields, at which point magnetic fields saturate and are maintained by background turbulent fields."
+  - excerpt: "The **turbulent dynamo** explains how turbulent motions can rapidly grow weak, seed magnetic fields produced in the early Universe, to the levels we see today. At first, turbulent motions grow magnetic fields exponentially fast in time, until magnetic fields reach close equipartition with turbulent kinetic fields, at which point magnetic fields saturate and are maintained by background turbulent fields."
 
 feature_row:
 - image_path: /assets/kriel2023slices.png
