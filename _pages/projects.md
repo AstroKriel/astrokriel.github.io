@@ -25,7 +25,6 @@ feature_row:
 - image_path: /assets/neco.jpg
   title: "Solving Chopsticks"
   excerpt: "bla bla bla bla."
-
 ---
 
 {% include feature_row id="intro" type="center" %}
