@@ -6,23 +6,23 @@ intro:
   - excerpt: "In my spare time I enjoy learning new things. Here are a few small projects that highlight a few interesting things I learned."
 
 feature_row:
-- image_path: /assets/neco.jpg #mandelbulb.gif
+- image_path: /assets/mandelbulb.gif
   title: "Rendering a Mandelbulb with Ray Marching"
   excerpt: "bla bla bla bla."
 
-- image_path: /assets/neco.jpg #mandelbrot.png
+- image_path: /assets/mandelbrot.png
   title: "Zoom-in of the Mandelbrot"
   excerpt: "bla bla bla bla."
 
-- image_path: /assets/neco.jpg #geodesics.png
+- image_path: /assets/geodesics.png
   title: "Computing Geodesics in 3D Point Clouds"
   excerpt: "bla bla bla bla."
 
-- image_path: /assets/neco.jpg #circles.gif
+- image_path: /assets/circles.gif
   title: "Circle Packing"
   excerpt: "bla bla bla bla."
 
-- image_path: /assets/neco.jpg
+- image_path: /assets/chopsticks.png
   title: "Solving Chopsticks"
   excerpt: "bla bla bla bla."
 ---
