@@ -1,5 +1,5 @@
 ---
-permalink: /pubs/
+permalink: /papers/
 author_profile: true
 classes: wide
 ---
