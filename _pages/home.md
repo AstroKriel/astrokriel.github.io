@@ -1,4 +1,4 @@
----
+<!-- ---
 permalink: /
 author_profile: true
 header:
@@ -8,7 +8,7 @@ header:
   caption: "Photo credit: [**NASA/JPL-Caltech**](https://www.nasa.gov/sites/default/files/styles/full_width/public/thumbnails/image/pia23645_pbd_main-16.jpg?itok=GSe4gFx2)"
 excerpt: "\"Consider again that dot. That's here. That's home. That's us.\" <br/> ~Carl Sagan"
 classes: wide
----
+--- -->
 
 <!-- <figure style="width: 30%" class="align-right">
   <a href="/assets/images/bio-photo.jpg" title="Home Photo" alt="Home Photo">
