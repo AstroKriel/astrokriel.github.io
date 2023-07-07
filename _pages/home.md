@@ -10,3 +10,4 @@ Broadly, my research investigates the intricate interplay between magnetic field
 If you are interested, I encourage you to visit my [**Research**][1] page, or take a look at my [**CV**](/assets/CV.pdf).
 
 [1]: /research/
+
