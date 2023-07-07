@@ -60,9 +60,6 @@ author:
     - label: "AstroKriel"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/astrokriel"
-    - label: "Google Scholar"
-      icon: https://icons8.com/icon/drPiDBy9kkJ3/google-scholar
-      url: "https://scholar.google.com.au/citations?user=KCEeTcgAAAAJ&hl=en"
 
 footer:
   links:
