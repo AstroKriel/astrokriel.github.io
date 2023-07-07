@@ -60,13 +60,13 @@ author:
   name             : "Neco Kriel"
   avatar           : "/assets/images/avatar.jpg"
   bio              : "2nd year PhD Student at The Australian National University"
-  location         : "Mount Stromlo Observatory, Canberra, Australia"
+  location         : "ANU, Canberra, Australia"
   email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:neco.kriel(at)anu.edu.au"
-    - label: "Orcid"
+    - label: "OrcID"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0002-3558-3926"
     - label: "GitHub"
@@ -78,13 +78,13 @@ author:
 
 footer:
   links:
-    - label: "Email"
+    - label: "Email: neco.kriel@anu.edu.au"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:neco.kriel(at)anu.edu.au"
-    - label: "Orcid"
+    - label: "Orcid: 0000-0002-3558-3926"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0002-3558-3926"
-    - label: "GitHub"
+    - label: "GitHub: AstroKriel"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/astrokriel"
 atom_feed:
