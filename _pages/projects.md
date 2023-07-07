@@ -3,7 +3,7 @@ permalink: /projects/
 author_profile: true
 classes: wide
 intro:
-  - excerpt: "In my spare time I enjoy playing around with things. Here are a few small projects that highlight interesting concepts I learned."
+  - excerpt: "In my spare time I enjoy learning new things. Here are a few small projects that highlight a few interesting things I learned."
 
 feature_row:
 - image_path: /assets/mandelbulb.gif
