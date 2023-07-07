@@ -2,17 +2,17 @@
 permalink: /research/
 author_profile: true
 classes: wide
-# intro:
-#   - excerpt: 'Magnetic fields in turbulent environments'
+intro:
+  - excerpt: "The **turbulent dynamo** is a powerful mechanism that exponentially amplifies weak, seed magnetic fields (potentially produced by a Biermann battery, or phase transition in the early Universe) via kinetic motions, and in the present Universe, this mechanism is ultimately responsible for maintaining magnetic fields in the interstellar magnetic fields at the levels we observe, today."
 
 feature_row:
 - image_path: /assets/kriel2023slices.png
-  title: "Magnetic Structures in Turbulent Dynamos"
-  excerpt: "Using our newly developed methods for characterising magnetic field structures in plasmas, we established a clear relationship between the local, small-scale morphology of magnetic fields and the global, large-scale flow properties of the plasma medium. In, the warm phase of the ISM, for example, where turbulent motions are subsonic (**top row panels**), magnetic fields tend to form folded structures that lead to magnetic energy concentrated on the smallest scales allowed by dissipation processes. In the supersonically-moving (**bottom row panels**), cold phase of the ISM, however, shocks violently reorganise magnetic fields into larger-scale structures associated with denser regions of plasma."
+  title: "Morphology of Magnetic Structures in Turbulent Dynamos"
+  excerpt: "Using our new methods for characterising magnetic structures in plasmas, we established a clear relationship between the local, small-scale morphology of magnetic fields and the global, large-scale flow properties of the plasma medium. In the warm phase of the ISM, for example, where turbulent motions are subsonic (**top row panels**), magnetic fields tend to form folded structures that lead to magnetic energy concentrated on the smallest scales allowed by dissipation processes. In the supersonically-moving (**bottom row panels**), cold phase of the ISM, however, shocks violently reorganise magnetic fields into larger-scale structures associated with denser regions of plasma."
 
 - image_path: /assets/cube.gif
-  title: "Compressibility in Dynamos"
-  excerpt: "bla bla bla."
+  title: "Effect of Compressibility in Turbulent Dynamos"
+  excerpt: "We are currently working on two complimentary studies in preparation (Kriel+2023 and Beattie+Kriel+2023), which are expected to be submited in September this year. We explain how compressibility reduces the overall dynamo efficiency (growth rate and saturated energy level) by enabling the exchange of kinetic and internal energy reservoirs via temporary, short-lived pressure fluctuations (compression is soon followed by dilation)."
 
 # - image_path: /assets/images/WDexcess.jpg
 #   title: "White Dwarfs with Infrared Excess"
