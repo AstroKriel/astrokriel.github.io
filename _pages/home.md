@@ -16,20 +16,13 @@ classes: wide
 </figure>
 
 
-Greetings, I'm an astrophysics PhD candidate working with [**A/Prof. Christian Wolf**](https://researchers.anu.edu.au/researchers/wolf-c) 
-and [**Dr. Christopher Onken**](https://researchers.anu.edu.au/researchers/onken-c) at the Research School of Astronomy & Astrophysics, 
-based on Mt. Stromlo Observatory of Australian National University, Canberra, Australia. 
+I am a theoretical and computational astrophysicst working with [**Prof. Mark Kurmholz**]() 
+and [**A/Prof. Christoph Federrath**]() at the Research School of Astronomy & Astrophysics, 
+based on Mount Stromlo Observatory of The Australian National University, Canberra, Australia.
+Broadly my research explores how magnetic fields evolve in turbulent environments, which I do
+by developing theoretical models, as well as running and contributing to develop state of the
+art exascale simulation codes.
 
-My research revolves around accretion onto compact objects, namely black holes and white dwarfs,
-but my current focus is on moderately high-redshift ultraluminous quasars. 
-This involves submitting proposals to collect spectroscopic observations and analysing the spectra 
-to characterise the black hole and its extreme environment. 
-I also have experience in fully three-dimensional self-consistent general relativistic magnetohydrodynamical simulations,
-which attempt to model the accretion flow structure and magnetised dynamics around objects with strong gravitational fields. 
-Working with such fluid models in tandem with general relativistic radiative transfer, 
-we can predict both the integrated flux and spatially resolved image. 
-Such codes are fully parallelised and run on powerful supercomputers.
-
-For more about my research, visit the [**Research**][1] page or have a look at my [**CV**](/assets/docs/CV_Samuel_Lai.pdf).
+For more about my research, visit the [**Research**][1] page or have a look at my [**CV**](/assets/docs/NK_CV.pdf).
 
 [1]: /research/

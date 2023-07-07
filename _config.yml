@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Neco Kriel
-masthead_title: "Neco Kriel - Astronomy"
+masthead_title: "Neco Kriel"
 logo: "/assets/images/masthead_logo.png"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
@@ -58,9 +58,9 @@ plugins:
 # Site Author
 author:
   name             : "Neco Kriel"
-  avatar           : "/assets/images/avatar.jpeg"
-  bio              : "Astrophysics PhD Candidate at Australian National University"
-  location         : "Canberra, Australia"
+  avatar           : "/assets/images/avatar.jpg"
+  bio              : "Theoretical & Computational Astrophysics -- PhD Candidate at The Australian National University"
+  location         : "Mount Stromlo Observatory, Canberra, Australia"
   email            : 
   links:
     - label: "Email"
@@ -87,7 +87,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/astrokriel"
-      
 atom_feed:
   hide: true
 
