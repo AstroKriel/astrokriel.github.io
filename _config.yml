@@ -63,13 +63,13 @@ author:
   location         : "ANU, Canberra, Australia"
   email            : 
   links:
-    - label: "Email: neco.kriel@anu.edu.au"
-      icon: "fas fa-fw fa-envelope-square"
+    - label: "neco.kriel@anu.edu.au"
+      icon: "fas fa-regular fa-envelope"
       url: "mailto:neco.kriel(at)anu.edu.au"
-    - label: "OrcID: 0000-0002-3558-3926"
+    - label: "0000-0002-3558-3926"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0002-3558-3926"
-    - label: "GitHub: AstroKriel"
+    - label: "AstroKriel"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/astrokriel"
 #    - label: "Google Scholar"
@@ -79,7 +79,7 @@ author:
 footer:
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-regular fa-envelope"
       url: "mailto:neco.kriel(at)anu.edu.au"
     - label: "OrcID"
       icon: "fab fa-fw fa-orcid"
