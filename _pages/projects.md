@@ -3,18 +3,18 @@ permalink: /projects/
 author_profile: true
 classes: wide
 intro:
-  - excerpt: "In my spare time I enjoy learning new things. Here are a few small projects that highlight a few interesting things I learned."
+  - excerpt: "In my spare time I enjoy learning new things. Here I highlight a few fun, small projects."
 
 feature_row:
 - image_path: /assets/mandelbulb.gif
-  title: "Rendering a Mandelbulb with Ray Marching"
+  title: "Ray Marching a Mandelbulb"
   excerpt: "bla bla bla bla."
 
 - image_path: /assets/mandelbrot.png
   title: "Zoom-in of the Mandelbrot"
   excerpt: "bla bla bla bla."
 
-- image_path: /assets/geodesics.png
+- image_path: /assets/geodesic.gif
   title: "Computing Geodesics in 3D Point Clouds"
   excerpt: "bla bla bla bla."
 
