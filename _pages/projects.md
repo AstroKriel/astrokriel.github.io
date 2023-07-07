@@ -8,11 +8,11 @@ intro:
 feature_row:
 - image_path: /assets/geodesic.gif
   title: "Geodesics in 3D Point Clouds"
-  excerpt: "I implemented an A-star algorithm to navigate through a point cloud generated for the gyroid function. The surface of the gyroid isosurface is obtained using marching cubes, and a KD-Tree defines the spatial connections between points."
+  excerpt: "I implemented an A-star algorithm to navigate through a point cloud generated for the [gyroid](https://mathworld.wolfram.com/Gyroid.html) function. The surface of this gyroid isosurface is approximated using a marching cubes algorithm, and a KD-Tree defines the connections between points."
 
 - image_path: /assets/mandelbulb.gif
   title: "Ray Marching a Mandelbulb"
-  excerpt: "Ray marching is an efficient method for rendering scenes like this mandelbulb (a 3D fractal), which has an infinite about of small-scale detail on its surface."
+  excerpt: "Ray marching is an efficient algorithm for rendering scenes like this mandelbulb, where a signed distance function (implicit representations of surfaces) exists for the (elements in the) scene."
 
 - image_path: /assets/mandelbrot.png
   title: "Zoom-in of the Mandelbrot"
