@@ -12,7 +12,7 @@ feature_row:
 
 - image_path: /assets/mach10cube.gif
   title: "Effect of Compressibility in Turbulent Dynamos"
-  excerpt: "In **Beattie+Kriel+2023** in prep. (expected Sept. submission) we explain how compressibility reduces the overall dynamo efficiency (growth rate and saturated energy level) by enabling the exchange of kinetic energy between solenoidal and compressive motions. While, compressed regions of plasma can lead to growth in magnetic fields, these moments of growth are short-lived (compression is soon followed by dilation), and leaves a net-negative impact on the growth of magnetic fields."
+  excerpt: "In **Beattie+Kriel+2023** in prep. (expected Sept. submission) we explain how compressibility reduces the overall dynamo efficiency (growth rate and saturated energy level) by enabling the exchange of kinetic energy between solenoidal and compressive motions. While compressed regions of plasma can lead to growth in magnetic fields, these moments of growth are short-lived (compression is soon followed by dilation), and leaves a net-negative impact on the growth of magnetic fields."
 ---
 
 {% include feature_row id="intro" type="center" %}
