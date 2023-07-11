@@ -7,8 +7,8 @@ intro:
 
 feature_row:
 - image_path: /assets/geodesic.gif
-  title: "Geodesics in 3D Point Clouds"
-  excerpt: "I implemented an A-star algorithm to navigate any surface. Here my solver navigates the surface of the [**gyroid**](https://mathworld.wolfram.com/Gyroid.html) function, whose isosurface is approximated using a marching cubes algorithm, and a KD-Tree defines the connections between points. Check it out [**here**](https://github.com/AstroKriel/Geodesics)"
+  title: "Geodesics on Manifolds"
+  excerpt: "I implemented an A-star algorithm to navigate any surface (manifold). Here my solver navigates the surface of the [**gyroid**](https://mathworld.wolfram.com/Gyroid.html) function, whose isosurface is approximated using a marching cubes algorithm, and a KD-Tree defines the connections between points. Check it out [**here**](https://github.com/AstroKriel/Geodesics)"
 
 - image_path: /assets/mandelbulb.gif
   title: "Ray Marching a Mandelbulb"
